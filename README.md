@@ -14,3 +14,12 @@ org:rails
 
 
 Phi-3-medium instruct (128k)
+
+
+$ git merge upstream/main
+> Updating 34e91da..16c56ad
+> Fast-forward
+>  README.md                 |    5 +++--
+>  1 file changed, 3 insertions(+), 2 deletions(-)
+
+
