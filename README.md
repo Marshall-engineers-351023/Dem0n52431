@@ -11,3 +11,4 @@ Dem0n52431/Dem0n52431 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 org:rails
+Phi-3-medium instruct (128k)
