@@ -24,14 +24,15 @@ You can click the Preview link to take a look at your changes.
 -
 Phi-3-medium instruct (128k)
 -
-org.rails
+-
 $ git merge upstream/main
 > Updating 34d91da..16c57ad
 > Fast-forward
 >  README.md                 |    5 +++-_-
 >  1 file changed, 3 insertions(+), 2 deletions(-#-)
-
-
+-
+-
+org.rails
 
 
 
