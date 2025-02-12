@@ -118,4 +118,4 @@ _ https://github.com/orgs/Marshall-engineers-351023/sso
           fetch_args: ${{ env.FETCH_ARGS }}
           merge_args: ${{ env.MERGE_ARGS }}
           push_args: ${{ env.PUSH_ARGS }}
-          spawn_logs: ${{ env.SPAWN_LOGS }}
+          spawn_logs: ${{ env.SPAWN_HEALTH }}
